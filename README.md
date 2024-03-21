@@ -1,3 +1,8 @@
+
+## Listas
+
+Se pretende utilizar adecuadamente la propiedad  [inline-block](https://www.w3schools.com/css/css_inline-block.asp) , aunque hay varias formas de resolver esta maquetación
+
 ## Lope de Vega (background images)
 
 1. Revisa las diferentes maneras que tenemos para poner imágenes de fondo. Itera por los ejemplos y experimenta [enlace](https://www.w3schools.com/cssref/pr_background-image.php)
